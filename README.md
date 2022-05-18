@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Todd! (@gyphonic)
 - 👀 I’m interested in Computer Science! All forms, really.
-- 🌱 I’m currently learning Java, JQuery, Q#, BASH, C++, and Node.JS.
+- 🌱 I’m currently learning Processing.JS, Rust, and Objective C.
 
 <!---
 gyphonic/gyphonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
